@@ -23,13 +23,10 @@ For a development enviroment:
 - Clone the project
 - ```
   npm install --save
-
-  ```
-
   ```
 
 - ```
-    npm run dev
+  npm run dev
   ```
   For a production enviroment:
 - Clone the project
@@ -39,10 +36,10 @@ For a development enviroment:
   ```
 
 - ```
-    npm run build
+  npm run build
   ```
 - ```
-    npm start
+  npm start
   ```
 
 ## Usage
