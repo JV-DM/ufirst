@@ -22,10 +22,22 @@ For a development enviroment:
 
 - Clone the project
 - ```
+  npm install --save
+
+  ```
+
+  ```
+
+- ```
     npm run dev
   ```
   For a production enviroment:
 - Clone the project
+
+- ```
+  npm install --save
+  ```
+
 - ```
     npm run build
   ```
@@ -36,6 +48,7 @@ For a development enviroment:
 ## Usage
 
 The graphics come pre loaded but in case that you want to add new logs you can upload them using the feature at the top of the page.
+
 ## License
 
 Specify the license under which your project is distributed.
@@ -43,4 +56,7 @@ Specify the license under which your project is distributed.
 ## Acknowledgments
 
 The logs were collected by Laura Bottomley (laurab@ee.duke.edu) of Duke University.
+
+```
+
 ```
